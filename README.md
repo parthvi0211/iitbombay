@@ -180,6 +180,7 @@ Notebook Descriptions
 Visualization Dashboard
 Each notebook includes comprehensive visualizations:
 
+
 📊 Data distribution analysis
 🎭 Modality-specific feature patterns
 📈 Model performance comparisons
@@ -199,11 +200,15 @@ Follow PEP 8 style conventions
 Add comprehensive docstrings
 Include unit tests for new features
 Update documentation as needed
+
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 📚 Citation
 If you use this work in your research, please cite:
+
 
 @misc{multimodal_sentiment_analysis_2025,
   title={Multimodal Sentiment Analysis using EEG, GSR, Facial Action Units, and Self-Report Data},
@@ -212,6 +217,7 @@ If you use this work in your research, please cite:
   url={https://github.com/parthvi0211/iitbombay},
   note={Advanced late fusion approaches for physiological emotion classification}
 }
+
 📞 Contact & Support
 👤 Author: Parthvi gadekar
 📧 Email: parthvigadekar@gmail.com
