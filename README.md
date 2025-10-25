@@ -374,7 +374,7 @@ Late Fusion Implementation
 
 eeg\_model = train\_modality\_classifier(eeg\_features, labels)
 
-gsr\_model = train\_modality\_classifier(gsr\_features, labels) 
+gsr\_model = train\_modality\_classifier(gsr\_features, labels)
 
 au\_model = train\_modality\_classifier(au\_features, labels)
 
@@ -484,15 +484,15 @@ If you use this work in your research, please cite:
 
 @misc{multimodal\_sentiment\_analysis\_2025,
 
-&nbsp; title={Multimodal Sentiment Analysis using EEG, GSR, Facial Action Units, and Self-Report Data},
+  title={Multimodal Sentiment Analysis using EEG, GSR, Facial Action Units, and Self-Report Data},
 
-&nbsp; author={parthvi gadekar},
+  author={parthvi gadekar},
 
-&nbsp; year={2025},
+  year={2025},
 
-&nbsp; url={https://github.com/adityakale09/Multimodal-Sentiment-Analysis-IIT-Bombay-Intern},
+  url={https://github.com/parthvi0211/iitbombay},
 
-&nbsp; note={Advanced late fusion approaches for physiological emotion classification}
+  note={Advanced late fusion approaches for physiological emotion classification}
 
 }
 
